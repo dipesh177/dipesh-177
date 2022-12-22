@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dipesh177
 - 👀 I’m interested in Data structures and algorithms
-- 🌱 I’m currently learning Dsa and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dipesh1901@gmail.com
 
